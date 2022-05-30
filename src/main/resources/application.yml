@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://devwebstudy.co.kr:3306/calendar
+    username: dev
+    password: skfo159369*A
